@@ -6,11 +6,11 @@ Outside school, I build things to learn how they work. I enjoy the design side, 
 
 ## Things I've built
 
-**[TradieLynx](https://github.com/cjkolt/TradieLynx)** — A marketplace MVP where homeowners post jobs and tradespeople bid on them. Built with Go, PostgreSQL, HTMX, and Docker. One of the more interesting parts is keeping the bidding and job-awarding workflow consistent and properly restricted by user role.
+**[TradieLynx](https://github.com/cjkolt/TradieLynx)** — A completed portfolio MVP where homeowners post jobs and tradespeople bid on them. Built with Go, PostgreSQL, HTMX, and Docker. The bid-awarding flow uses a database transaction to keep job and bid statuses consistent and checks that the person awarding the job has permission to do so.
 
-**[Sales Data Auditor](https://github.com/cjkolt/sales-data-auditor)** — A smaller Python/pandas exercise: cleaning a sample sales export, setting aside questionable rows, and reporting totals that can be traced back to the input. Includes tests and a review log.
+**[Sales Data Audit & Reporting](https://github.com/cjkolt/sales-data-auditor)** — A smaller Python/pandas exercise: cleaning a sample sales export, setting aside questionable rows, and reporting totals that can be traced back to the input. Includes tests and a review log.
 
-**CoffeeStocks** *(private beta)* — A React Native / TypeScript app exploring a simple idea: what if you tracked the money you almost spent on coffee and chose to invest it instead? The app records decisions and self-confirmed contributions; it doesn't move money or connect to a brokerage.
+**CoffeeStocks** *(preparing for private beta)* — A React Native / TypeScript app exploring a simple idea: what if you tracked the money you almost spent on coffee and chose to invest it instead? The app records decisions and self-confirmed contributions; it doesn't move money or connect to a brokerage.
 
 **T.S. Food Services website** *(private prototype)* — A Next.js / TypeScript website for a wholesale food business, built around its actual products and the information customers need.
 

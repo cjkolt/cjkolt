@@ -1,16 +1,19 @@
-## Hi there 👋
+# Christopher Kolt
 
-<!--
-**cjkolt/cjkolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying Statistics at the University of Manitoba, with a minor in Mathematics. I also work in operations for a wholesale food business, so I'm interested in what happens when software meets real workflows and real people.
 
-Here are some ideas to get you started:
+Outside school, I build things to learn how they work. I enjoy the design side, but I'm just as interested in the less visible parts: data, permissions, edge cases, and making sure an application behaves the way it should.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I've built
+
+**[TradieLynx](https://github.com/cjkolt/TradieLynx)** — A marketplace MVP where homeowners post jobs and tradespeople bid on them. Built with Go, PostgreSQL, HTMX, and Docker. One of the more interesting parts is keeping the bidding and job-awarding workflow consistent and properly restricted by user role.
+
+**CoffeeStocks** *(private beta)* — A React Native / TypeScript app exploring a simple idea: what if you tracked the money you almost spent on coffee and chose to invest it instead? The app records decisions and self-confirmed contributions; it doesn't move money or connect to a brokerage.
+
+**T.S. Food Services website** *(private prototype)* — A Next.js / TypeScript website for a wholesale food business, built around its actual products and the information customers need.
+
+## Lately
+
+I'm working on getting better at Python, SQL, and statistical analysis, while improving the reliability and presentation of my existing projects. I'm especially interested in data and software work that has a clear reason to exist beyond a good-looking demo.
+
+I'm open to junior, student, and flexible opportunities in data, software, and technical operations.
